@@ -44,8 +44,13 @@ Line 93 has a "footer" semantics. It closes at line 99.
 ## Changes in CSS
 
 The benefits, "aside", and sections were cleaned up to run with less code.
+The "content" section was cleaned up to run with less code. All the code related to the content section were migrated in css to above the "benefits/aside" section.
 
-The "content" section was cleaned up to run with less code. All the code related to the content section were migrated in css to above the "benefits/aside" section. 
+## Acknoledgement
+
+I worked on elements of this code with peers and google search to find specific ways to follow accessability standards. 
+
+
 
 
 
